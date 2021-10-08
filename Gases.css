@@ -1,0 +1,43 @@
+.resultado {
+    text-align: center;
+    font-size: large;
+} 
+#gradosc {
+    text-align: center;
+    font-size:large;
+}
+#farenheit {
+    text-align: center;
+    font-size:small;
+}
+nav {
+    text-align: center;
+}
+.p {
+    font-size:larger;
+}
+div {
+    text-align: left;
+    width: 325px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+} 
+main{
+height: 800px;
+background: rgb(34,195,126);
+background: linear-gradient(0deg, rgba(34,195,126,0.7819502801120448) 0%, rgba(45,126,253,1) 100%);
+}
+
+header{
+    font-size: 20px;
+    text-decoration: teal;
+}
+
+body{ 
+    padding: 0%;
+    margin: 0%;
+}
